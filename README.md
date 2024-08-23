@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **williamphuaman@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/william-peña](www.linkedin.com/in/william-peña)
+- 📄 Know about my experiences [www.linkedin.com/in/william-peña](https://www.linkedin.com/in/william-peña/)
 
 - 📄 My web portfolio  [https://ephraim201.github.io/Mi-PortafolioWeb/](https://ephraim201.github.io/Mi-PortafolioWeb/)
   

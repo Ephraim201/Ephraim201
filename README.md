@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm William Peña</h1>
 <h3 align="center">A passionate Full-stack developer from Spain</h3>
 
+<p align="center">
+  <img src="https://img.pikbest.com/backgrounds/20200720/retro-cyberpunk-style-80s-sci-fi-background-futuristic-with-laser-grid-landscape--v_2415754jpg!w700wp" alt="Imagen no encontrada" width="300"/>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ephraim201&label=Profile%20views&color=0e75b6&style=flat" alt="ephraim201" /> </p>
 
 - 🌱 I’m currently learning **React and machine learning**

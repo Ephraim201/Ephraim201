@@ -3,7 +3,7 @@
 
 <p align="center" style="transform: rotateX(30deg) perspective(1000px); display: inline-block;">
     <img src="https://img.pikbest.com/backgrounds/20200720/retro-cyberpunk-style-80s-sci-fi-background-futuristic-with-laser-grid-landscape--v_2415754jpg!w700wp" alt="Imagen no encontrada" width="70%"/>
-  </p>
+</p>
   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ephraim201&label=Profile%20views&color=0e75b6&style=flat" alt="ephraim201" /> </p>

@@ -1,20 +1,10 @@
 <h1 align="center">Hi 👋, I'm William Peña</h1>
 <h3 align="center">A passionate Full-stack developer from Spain</h3>
 
-<div style="position: relative; width: 70%; margin: 0 auto;">
-    
-    <div style="
-      position: relative;
-      width: 400px;
-      height: 250px;
-      overflow: hidden;
-      margin: 0 auto;
-      clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
-      ">
-      <img src="https://img.pikbest.com/backgrounds/20200720/retro-cyberpunk-style-80s-sci-fi-background-futuristic-with-laser-grid-landscape--v_2415754jpg!w700wp" 
-           alt="Imagen no encontrada" style="width: 100%; height: 100%; object-fit: cover;">
-    </div>
-</div>
+<p align="center" style="transform: rotateX(30deg) perspective(1000px); display: inline-block;">
+    <img src="https://img.pikbest.com/backgrounds/20200720/retro-cyberpunk-style-80s-sci-fi-background-futuristic-with-laser-grid-landscape--v_2415754jpg!w700wp" alt="Imagen no encontrada" width="70%"/>
+  </p>
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ephraim201&label=Profile%20views&color=0e75b6&style=flat" alt="ephraim201" /> </p>
 

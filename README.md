@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/william-peña](https://www.linkedin.com/in/william-peña/)
 
-- 📄 My web portfolio  [https://ephraim201.github.io/Mi-PortafolioWeb/](https://ephraim201.github.io/Mi-PortafolioWeb/)
+- 📄 My web portfolio  [https://ephraim201.github.io/Mi-PortafolioWeb/](https://neon-cat-ac1d03.netlify.app)
   
 - ⚡ Fun fact **i like tactics games**
 
